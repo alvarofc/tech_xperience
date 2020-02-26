@@ -1,4 +1,4 @@
-# texh_xperience
+# Tech Xperience challenge
 
 ## Challenge description
 In this challenge, the company asked to develop an image recognition software to recognize 4 different products. We were given a little set of pictures to make the prediction.
