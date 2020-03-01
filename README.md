@@ -16,3 +16,4 @@ You can check the final model downloading the philips_cv.h5 file from the repo a
 
 ## Further steps
 I'm currently trying to upload the model to a webpage to be able to analyze pictures without the need of having the model locally. 
+Check progress here: http://philips.us-east-2.elasticbeanstalk.com/
